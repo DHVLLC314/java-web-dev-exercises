@@ -1,8 +1,8 @@
-package exercises;
+package org.launchcode.java.exercises.data_types;
 
 import java.util.Scanner;
 
-public class areaOfRectangle {
+public class AreaOfRectangle {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the length of your rectangle");

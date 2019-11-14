@@ -1,4 +1,4 @@
-package exercises;
+package org.launchcode.java.exercises.data_types;
 import java.util.Scanner;
 
 public class HelloWorld {

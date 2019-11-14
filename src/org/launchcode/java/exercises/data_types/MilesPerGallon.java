@@ -1,8 +1,8 @@
-package exercises;
+package org.launchcode.java.exercises.data_types;
 
 import java.util.Scanner;
 
-public class milesPerGallon {
+public class MilesPerGallon {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("How many miles have you driven today?");
